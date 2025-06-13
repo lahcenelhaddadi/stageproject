@@ -8,3 +8,7 @@
 <a href="https://www.instagram.com/l7n______h" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
+
+<a href="mailto:lahssanhhh850@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail"/>
+</a>
