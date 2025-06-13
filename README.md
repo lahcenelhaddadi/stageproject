@@ -12,3 +12,7 @@
 <a href="mailto:lahssanhhh850@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail"/>
 </a>
+
+ <a href="https://www.linkedin.com/in/lahcen-el-haddadi-200114328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+</a>
